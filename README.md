@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Yash Trivedi, a passionate self-taught web developer from India.
+A passionate developer from India.
 
 - 🔭 I’m currently working on Blockchain.
 - 🌱 I’m currently learning Javascript and Typescript
