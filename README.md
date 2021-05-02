@@ -28,6 +28,7 @@ A passionate developer from India.
 <a href="#">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=piyushdavda&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Piyush's github stats" />
 </a>
+<br/>
 <a href="#">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushdavda&layout=compact&theme=material-palenight" />
