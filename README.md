@@ -1,11 +1,11 @@
 ### Hola, I'm Piyush 👋
 
 <a href="https://www.linkedin.com/in/piyushdavda/">
-  <img align="left" alt="P | LinkedIn"  width="61px" src="https://raw.githubusercontent.com/piyushdavda/piyushdavda/assets/linkedin.svg" />
+  <img align="left" alt="Piyush Davda | LinkedIn"  width="61px" src="https://raw.githubusercontent.com/piyushdavda/piyushdavda/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://twitter.com/piyushdavda007">
-  <img align="left" alt="Piyush Davda | Twitter" width="21px" src="https://raw.githubusercontent.com/piyushdavda/piyushdavda/assets/twitter.svg" />
+  <img align="left" alt="Piyush Davda | Twitter" width="21px" src="https://raw.githubusercontent.com/piyushdavda/piyushdavda/master/assets/twitter.svg" />
 </a>
 
 <br />
